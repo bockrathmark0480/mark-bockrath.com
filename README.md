@@ -44,9 +44,3 @@ For suggestions and professional collaborations, please reach out via the siteâ€
 
 Distributed under the MIT License.  
 See `LICENSE` for more information.
-
-***
-
-Let me know if youâ€™d like to add a section for advanced projects, tech stack details, or something more personalized!
-
-[1](https://github.com/bockrathmark0480/mark-bockrath.com/new/main?filename=README.md)
