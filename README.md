@@ -1,7 +1,3 @@
-Here’s a professional README.md description for your mark-bockrath.com repository:
-
-***
-
 # mark-bockrath.com
 
 **Personal Website of Mark Bockrath**  
